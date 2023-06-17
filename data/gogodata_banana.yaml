@@ -1,0 +1,13 @@
+
+
+
+
+train: ../yolov5-master/datasets/gogo/images/train
+val: ../yolov5-master/datasets/gogo/images/val
+test:  # test images (optional)
+
+nc: 1
+
+names:
+  0: head
+
