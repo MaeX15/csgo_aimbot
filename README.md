@@ -5,7 +5,7 @@
 
 3.run gogo_aimbot.py and then the aimbot should on
 
-4.or u can create your own datasets use labelimg and then run train.py to train your own gogo.pt
+4.the original model can be only used in map inferno and play as CT, or u can create your own datasets use labelimg and then run train.py to train your own gogo.pt
 
 5.if u need help plz read yolov5 documentation or email to authentischsein2@gmail.com
 
