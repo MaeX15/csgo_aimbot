@@ -3,7 +3,7 @@
 
 2.open csgo and set to size 1280*720 and put the window to the left and top of the screen
 
-3.run gogo_aimbot.py and the the the aimbot should on
+3.run gogo_aimbot.py and then the aimbot should on
 
 4.or u can create your own datasets use labelimg and then run train.py to train your own gogo.pt
 
@@ -11,4 +11,4 @@
 
 6.have fun!!!
 
-ps: We don't encourage cheating nor the use of aim bots and other hacks. Keep the game clean.
+ps: “We don't encourage cheating nor the use of aim bots and other hacks. Keep the game clean.”
